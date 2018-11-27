@@ -35,4 +35,8 @@ public class gitTesting
 		return x/y;
 
 	}
+public static float multiply(int x, int y)
+	{
+		return x*y;
+	}
 }
