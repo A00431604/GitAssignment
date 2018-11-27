@@ -13,4 +13,8 @@ public class gitTesting
 	{
 	return x+y;
 	}
+	public static int remainder(int x,int y)
+	{
+	return x%y;
+	}
 }
