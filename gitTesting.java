@@ -20,8 +20,14 @@ public class gitTesting
 	return x+y;
 	}
 
+	public static int sub(int x,int y)
+	{
+	return x-y;
+
+
 	public static float division (int x, int y)
 	{
 		return x/y;
+
 	}
 }
