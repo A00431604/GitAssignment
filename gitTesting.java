@@ -11,7 +11,8 @@ public class gitTesting
 	 float div = division(15,3);
 
 	 println("division result:" + div);
-
+	 
+	 
 
 	}
 
@@ -39,4 +40,9 @@ public static float multiply(int x, int y)
 	{
 		return x*y;
 	}
+public static float square(int x)
+{
+	return x*x;
+
+}
 }
